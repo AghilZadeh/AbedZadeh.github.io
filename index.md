@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# My Personal Projects
+## Duke Visualization Challenge
 
-You can use the [editor on GitHub](https://github.com/AghilZadeh/AbedZadeh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Recently, Scholars@Duke and The Graduate School of Duke University published datasets describing their faculty, publications, and PhD dissertation committees. They invited researchers and data scientists to participate in a [visualization challenge](https://rc.duke.edu/scholars-vis-challenge/) to explore questions like:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Can faculty publications and PhD dissertation committees show how disciplines overlap?
+- What can the makeup of dissertation committees tell us about trends in research?
+- How many Duke faculty cross departmental and school boundaries in their publishing and teaching activities, and can these activities be visualized?
+ 
+Aghil (my collaborator who is a graduate student at Duke) and I put together a poster that he presented at Duke Research Computing Symposium, and we received the third prize for this visualization. Here’s the poster we presented at the symposium: 
 
-### Markdown
+<div align="center">
+<img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="500px">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AghilZadeh/AbedZadeh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
