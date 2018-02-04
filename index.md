@@ -15,7 +15,9 @@ My collaborator [Varda](https://github.com/vfaghirh) (at Arizona State Universit
 
 <div align="center">
 <img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="500px">
+</div> 
 
+Our Poster is now in Duke's Library and can be cited. You can see the abstract [here](http://hdl.handle.net/10161/16026/).
 
 Let me walk you through the results briefly! Ready?? There are three main parts: Publications, collaborations, and education!
 You see some description on the poster. Here I am going to focus on the neworks!
@@ -23,3 +25,5 @@ You see some description on the poster. Here I am going to focus on the neworks!
 In our bigger collaboration network, the nodes represent organization and departments, with the outer circle being the most important ones (largest degree nodes)! Most of these important ones are affiliated with Duke school of Medicine.
 
 On a coarse-grain level, we also have plotted collaboration network of schools. Still school of Medicine and basic sciences rock, but take a closer look and you see how connected law school and school of public policy are! Right? kind of amazing how collaborative publications are! If you want to explore more do not miss [out our interactive graph](https://aghilzadeh.github.io/Duke_Collaborations/)! Still need more details? You can always refer to our codes, methodes and abstract files!  
+
+In the education graph, we want to show where students go to pick up their advisors. The inner circle are departments, where students have graduated from 2012 to 2017, and outer circles are faculties affiliations. The edges represent the number of students. If you need to take a closer look try our [education interactive graph](https://aghilzadeh.github.io/Duke_Education/)!
