@@ -2,7 +2,8 @@
 
 ## Insight Word Cloud
 
-![cloud2](https://user-images.githubusercontent.com/35585082/35773784-30c8c2f4-092a-11e8-9073-0774fb1da3b9.png)
+![cloud3](https://user-images.githubusercontent.com/35585082/35773969-b57cdd64-092f-11e8-9a5e-ae76ad567a0e.png)
+
 
 
 
