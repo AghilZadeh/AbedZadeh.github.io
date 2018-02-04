@@ -1,4 +1,5 @@
 # My Personal Projects
+Here is a brief description of few of my personal side projects. 
 
 ## Insight Word Cloud
 
