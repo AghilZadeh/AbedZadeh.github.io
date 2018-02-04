@@ -10,8 +10,7 @@
 
 
 
-{sp} +
-{sp} +
+***
 
 ## Duke Visualization Challenge
 
