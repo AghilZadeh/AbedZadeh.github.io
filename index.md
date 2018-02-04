@@ -2,7 +2,11 @@
 
 ## Insight Word Cloud
 
-![cloud3](https://user-images.githubusercontent.com/35585082/35773969-b57cdd64-092f-11e8-9a5e-ae76ad567a0e.png)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/35585082/35773969-b57cdd64-092f-11e8-9a5e-ae76ad567a0e.png" alt="3LSkgv.png" height="700px">
+</div>
+
 
 
 
