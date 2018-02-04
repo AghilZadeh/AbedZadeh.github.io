@@ -1,11 +1,15 @@
 # My Personal Projects
 Here is a brief description of few of my personal side projects. 
 
-## Insight Word Cloud
+***
+
+## Insight into Insight
+For a while, I have been interested in knowing more about the [Insight program](http://insightdatascience.com/). If you are also curious about the past projects, pursued by Insight fellows, this project might be insightful for you too!
+
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/35585082/35773969-b57cdd64-092f-11e8-9a5e-ae76ad567a0e.png" alt="3LSkgv.png" height="300px">
+<img src="https://user-images.githubusercontent.com/35585082/35773969-b57cdd64-092f-11e8-9a5e-ae76ad567a0e.png" alt="3LSkgv.png" height="270px">
 </div>
 
 
