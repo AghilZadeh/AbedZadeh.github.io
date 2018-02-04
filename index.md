@@ -2,6 +2,9 @@
 
 ## Insight Word Cloud
 
+![cloud](https://user-images.githubusercontent.com/35585082/35773762-863d8cfc-0929-11e8-9914-e2aa52507400.png)
+
+
 
 ## Duke Visualization Challenge
 
