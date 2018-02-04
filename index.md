@@ -14,7 +14,7 @@ Scholars@Duke and The Graduate School of Duke University invited researchers and
 My collaborator [Varda](https://github.com/vfaghirh) (at Arizona State University) and I teamed up along with Python, many of its libraries and Gephi to present a poster at the symposium. Our results got lots of attentions, won 3rd place, and appeared in Duke News.
 
 <div align="center">
-<img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="500px">
+<img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="700px">
 </div> 
 
 Our Poster is now in Duke's Library and can be cited. You can see the abstract [here](http://hdl.handle.net/10161/16026/).
