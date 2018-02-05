@@ -33,7 +33,7 @@ My collaborator [Varda](https://github.com/vfaghirh) (at Arizona State Universit
 <img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="600px">
 </div> 
 
-Our Poster, which I designe using Inkscape, is now in Duke's Library and can be cited. You can see the abstract [here](http://hdl.handle.net/10161/16026/).
+Our Poster, which I designe using Inkscape, is now in Duke's Library and can be cited. You can see the abstract [here](https://dukespace.lib.duke.edu/dspace/handle/10161/16028).
 
 Let me walk you through the results briefly! Ready?? There are three main parts: Publications, collaborations, and education!
 You see some description on the poster. Here I am going to focus on the networks!
