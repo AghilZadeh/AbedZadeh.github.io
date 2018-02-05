@@ -1,5 +1,5 @@
 # My Personal Projects
-Here is a brief description of few of my personal side projects. 
+Here is a brief description of few of my personal side projects. If you wanna know more about me take a look at my [LinkedIn](https://www.linkedin.com/in/aghilzadeh/).
 
 ***
 
