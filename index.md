@@ -27,7 +27,7 @@ Scholars@Duke and The Graduate School of Duke University invited researchers and
 - What can the makeup of dissertation committees tell us about trends in research?
 - How many Duke faculty cross departmental and school boundaries in their publishing and teaching activities, and can these activities be visualized?
  
-My collaborator [Varda](https://github.com/vfaghirh) (at Arizona State University) and I teamed up along with Python, many of its libraries and Gephi to present a poster at the symposium. Our results got lots of attentions, won 3rd place, and appeared in Duke News.
+My collaborator [Varda](https://github.com/vfaghirh) (at Arizona State University) and I teamed up along with Python, many of its libraries and Gephi to present a poster at the symposium. Our results got lots of attentions, won 3rd place, and appeared on [Duke News](https://researchblog.duke.edu/2018/02/06/duke-scholars-bridge-disciplines-to-tackle-big-questions/).
 
 <div align="center">
 <img src="https://vgy.me/3LSkgv.png" alt="3LSkgv.png" height="600px">
